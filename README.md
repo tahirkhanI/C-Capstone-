@@ -1,1 +1,2 @@
-# C-Capstone-
+# C++ Capstone
+# Smart Door Lock 
